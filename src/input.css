@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+.flex-between{
+    @apply flex justify-between
+}
+
+.flex-center{
+    @apply flex justify-center 
+}
+@tailwind utilities;
+
+
